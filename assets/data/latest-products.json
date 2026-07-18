@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Realme GT8 Pro",
+        "image": "assets/images/products/realmegt8pro.jpg",
+        "tag": "New",
+        "description": "Flagship performance, premium design",
+        "fullDescription": "Experience ultimate performance with Realme GT8 Pro featuring top-tier chipset, stunning display, and advanced camera system."
+    },
+    {
+        "id": 2,
+        "name": "Oppo Reno 16",
+        "image": "assets/images/products/opporeno16.jpg",
+        "tag": "Offer",
+        "description": "Camera innovation, sleek design",
+        "fullDescription": "Capture professional portraits with Oppo Reno 16 featuring cutting-edge camera tech, beautiful display, and fast charging."
+    },
+    {
+        "id": 3,
+        "name": "Vivo X300 Ultra",
+        "image": "assets/images/products/vivox300ultra.jpg",
+        "tag": "Featured",
+        "description": "Ultimate camera flagship",
+        "fullDescription": "Push photographic boundaries with Vivo X300 Ultra featuring revolutionary zoom system, pro-level imaging, and premium build."
+    },
+    {
+        "id": 4,
+        "name": "Moto Edge 70 Pro",
+        "image": "assets/images/products/motoedge70pro.jpg",
+        "tag": "Hot",
+        "description": "Pure Android, smooth experience",
+        "fullDescription": "Enjoy stock Android perfection with Moto Edge 70 Pro featuring vibrant display, fast performance, and reliable battery life."
+    },
+    {
+        "id": 5,
+        "name": "Redmi 15 Pro",
+        "image": "assets/images/products/redmi15pro.jpg",
+        "tag": "New",
+        "description": "Powerful specs, great value",
+        "fullDescription": "Get premium features at an affordable price with Redmi 15 Pro, including high-refresh display, strong processor, and great battery."
+    }
+]

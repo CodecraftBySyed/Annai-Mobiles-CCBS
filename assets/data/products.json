@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 17 Pro Max",
+        "category": "smartphones",
+        "image": "assets/images/products/17promax.png",
+        "description": "Next-gen Apple innovation, ultimate performance",
+        "fullDescription": "Experience the next level with iPhone 17 Pro Max featuring revolutionary design, cutting-edge chipset, advanced camera system, and stunning display."
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S26 Ultra",
+        "category": "smartphones",
+        "image": "assets/images/products/s26ultrasamsung.png",
+        "description": "Ultimate Galaxy flagship, AI-powered",
+        "fullDescription": "Push boundaries with Galaxy S26 Ultra featuring industry-leading camera, built-in S Pen, advanced Galaxy AI, and premium display."
+    },
+    {
+        "id": 3,
+        "name": "OnePlus 12",
+        "category": "smartphones",
+        "image": "assets/images/products/OnePlus12.png",
+        "description": "Flagship killer with Hasselblad camera",
+        "fullDescription": "Never settle with OnePlus 12 featuring Hasselblad camera system, Snapdragon 8 Gen 3, 120Hz LTPO display, and 100W SuperVOOC charging."
+    },
+    {
+        "id": 4,
+        "name": "Sony 65 4K Smart TV",
+        "category": "electronics",
+        "image": "assets/images/products/Sony654KSmartTV.png",
+        "description": "OLED panel, Android TV",
+        "fullDescription": "Cinematic experience at home with Sony 65\" 4K OLED TV featuring Cognitive Processor XR, Dolby Vision, and Google TV."
+    },
+    {
+        "id": 5,
+        "name": "MacBook Pro 14",
+        "category": "electronics",
+        "image": "assets/images/products/MacBookPro14.png",
+        "description": "M3 chip, 18-hour battery",
+        "fullDescription": "Power through anything with MacBook Pro 14\" featuring M3 chip, Liquid Retina XDR display, and up to 18-hour battery life."
+    },
+    {
+        "id": 6,
+        "name": "Whirlpool Refrigerator",
+        "category": "appliances",
+        "image": "assets/images/products/WhirlpoolRefrigerator.png",
+        "description": "Double door, 300L capacity",
+        "fullDescription": "Keep your food fresh with Whirlpool double door refrigerator featuring 300L capacity, IntelliSense inverter technology, and adaptive cooling."
+    },
+    {
+        "id": 7,
+        "name": "LG Washing Machine",
+        "category": "appliances",
+        "image": "assets/images/products/LGWashingMachine.png",
+        "description": "Front load, 8kg capacity",
+        "fullDescription": "Gentle yet powerful washing with LG front load machine featuring 8kg capacity, AI DD technology, and steam wash for hygiene."
+    },
+    {
+        "id": 8,
+        "name": "AirPods Pro 2",
+        "category": "accessories",
+        "image": "assets/images/products/AirPodsPro2.png",
+        "description": "Active noise cancellation",
+        "fullDescription": "Immersive sound with AirPods Pro 2 featuring Active Noise Cancellation, Adaptive Transparency, and Personalized Spatial Audio."
+    },
+    {
+        "id": 9,
+        "name": "Smart Watch",
+        "category": "accessories",
+        "image": "assets/images/products/SmartWatch.png",
+        "description": "Fitness tracking and Bluetooth calling",
+        "fullDescription": "Stay connected and active with a modern smart watch featuring fitness tracking, notifications, and long battery life."
+    },
+    {
+        "id": 10,
+        "name": "Headphone",
+        "category": "accessories",
+        "image": "assets/images/products/Headphone.png",
+        "description": "Immersive sound and comfort",
+        "fullDescription": "Enjoy rich sound and comfort with premium headphones designed for music, calls, and travel."
+    },
+    {
+        "id": 11,
+        "name": "Windows Laptop",
+        "category": "electronics",
+        "image": "assets/images/products/WindowsLaptop.png",
+        "description": "Portable performance for work and study",
+        "fullDescription": "A reliable Windows laptop built for productivity, multimedia, and everyday computing needs."
+    },
+    {
+        "id": 12,
+        "name": "Air Conditioner",
+        "category": "appliances",
+        "image": "assets/images/products/AirConditioner.png",
+        "description": "Energy-efficient cooling",
+        "fullDescription": "Enjoy powerful and energy-efficient cooling with a modern air conditioner for your home or office."
+    },
+    {
+        "id": 13,
+        "name": "Cooler",
+        "category": "appliances",
+        "image": "assets/images/products/Cooler.png",
+        "description": "Portable cooling for hot days",
+        "fullDescription": "Beat the heat with a compact cooler designed for efficient airflow and comfort."
+    },
+    {
+        "id": 14,
+        "name": "Tower Fan",
+        "category": "appliances",
+        "image": "assets/images/products/TowerFan.png",
+        "description": "Slim design with strong airflow",
+        "fullDescription": "Keep your space cool with a stylish tower fan that delivers steady airflow with low noise."
+    },
+    {
+        "id": 15,
+        "name": "iPad",
+        "category": "electronics",
+        "image": "assets/images/products/iPad.png",
+        "description": "Portable tablet for entertainment and work",
+        "fullDescription": "A sleek iPad with a vibrant display, powerful performance, and all-day battery life."
+    },
+    {
+        "id": 16,
+        "name": "Tablet",
+        "category": "electronics",
+        "image": "assets/images/products/Tablet.png",
+        "description": "Versatile tablet for everyday use",
+        "fullDescription": "Perfect for browsing, streaming, and productivity with a large display and smooth performance."
+    },
+    {
+        "id": 17,
+        "name": "Water Heater",
+        "category": "appliances",
+        "image": "assets/images/products/WaterHeater.png",
+        "description": "Fast and reliable hot water",
+        "fullDescription": "Enjoy instant hot water with a durable and efficient water heater for your home."
+    },
+    {
+        "id": 18,
+        "name": "Water Purifier",
+        "category": "appliances",
+        "image": "assets/images/products/WaterPurifier.png",
+        "description": "Pure drinking water at home",
+        "fullDescription": "Get clean and safe drinking water with a modern water purifier designed for daily use."
+    },
+    {
+        "id": 19,
+        "name": "Microwave Oven",
+        "category": "appliances",
+        "image": "assets/images/products/MicrowaveOven.png",
+        "description": "Fast cooking and reheating",
+        "fullDescription": "Make meal prep easier with a microwave oven that offers quick cooking and reheating convenience."
+    },
+    {
+        "id": 20,
+        "name": "Gas Stove",
+        "category": "appliances",
+        "image": "assets/images/products/GasStove.png",
+        "description": "Efficient cooking performance",
+        "fullDescription": "Cook with ease using a dependable gas stove built for everyday kitchen use."
+    },
+    {
+        "id": 21,
+        "name": "Electric Heater Flask",
+        "category": "appliances",
+        "image": "assets/images/products/ElectricHeaterFlask.png",
+        "description": "Portable warmth and convenience",
+        "fullDescription": "Stay warm with an electric heater flask that offers quick heating and convenient portability."
+    },
+    {
+        "id": 22,
+        "name": "Electric Rice Cooker",
+        "category": "appliances",
+        "image": "assets/images/products/ElectricRiceCooke.png",
+        "description": "Easy cooking and keep-warm function",
+        "fullDescription": "Prepare perfect rice and meals with an electric rice cooker featuring automatic keep-warm settings."
+    },
+    {
+        "id": 23,
+        "name": "Mixer Grinder",
+        "category": "appliances",
+        "image": "assets/images/products/MixerGrinder.png",
+        "description": "Powerful blending and grinding",
+        "fullDescription": "Make cooking easier with a mixer grinder that handles grinding, blending, and chutney prep."
+    },
+    {
+        "id": 24,
+        "name": "Sofa",
+        "category": "furniture",
+        "image": "assets/images/products/Sofa.png",
+        "description": "Comfortable seating for your living room",
+        "fullDescription": "Add comfort and style to your home with a modern sofa designed for relaxing and entertaining."
+    },
+    {
+        "id": 25,
+        "name": "Bed",
+        "category": "furniture",
+        "image": "assets/images/products/Bed.png",
+        "description": "Elegant and sturdy bedroom bed",
+        "fullDescription": "Bring comfort and sophistication to your bedroom with a durable bed frame."
+    },
+    {
+        "id": 26,
+        "name": "Plastic Chairs",
+        "category": "furniture",
+        "image": "assets/images/products/PlasticChairs.png",
+        "description": "Lightweight and durable seating",
+        "fullDescription": "Enjoy practical and affordable seating with sturdy plastic chairs for home or office use."
+    },
+    {
+        "id": 27,
+        "name": "Dressing Table",
+        "category": "furniture",
+        "image": "assets/images/products/DressingTable.png",
+        "description": "Stylish storage and vanity solution",
+        "fullDescription": "Organize your essentials in style with a functional dressing table for your bedroom."
+    },
+    {
+        "id": 28,
+        "name": "Mattress Bed",
+        "category": "furniture",
+        "image": "assets/images/products/MattressBed.png",
+        "description": "Comfort-focused sleeping solution",
+        "fullDescription": "Enjoy restful sleep with a comfortable mattress bed designed for relaxation."
+    },
+    {
+        "id": 29,
+        "name": "Wooden Table",
+        "category": "furniture",
+        "image": "assets/images/products/WoodenTable.png",
+        "description": "Classic style for dining or work",
+        "fullDescription": "Add timeless elegance to your space with a sturdy wooden table for dining or work."
+    },
+    {
+        "id": 30,
+        "name": "Folding Table",
+        "category": "furniture",
+        "image": "assets/images/products/FoldingTable.png",
+        "description": "Space-saving and portable",
+        "fullDescription": "A practical folding table that saves space and offers flexible use at home or events."
+    },
+    {
+        "id": 31,
+        "name": "Luxury Wooden Temple for Home",
+        "category": "furniture",
+        "image": "assets/images/products/LuxuryWoodenTemple.png",
+        "description": "Elegant spiritual decor centerpiece",
+        "fullDescription": "Bring tradition and elegance together with a beautifully crafted wooden temple for your home."
+    },
+    {
+        "id": 32,
+        "name": "Home Theater",
+        "category": "electronics",
+        "image": "assets/images/products/HomeTheater.jpg",
+        "description": "Immersive audio experience",
+        "fullDescription": "Create a cinematic experience at home with a powerful home theater system for movies, music, and gaming."
+    },
+        {
+        "id": 33,
+        "name": "Mixer",
+        "category": "appliances",
+        "image": "assets/images/products/Mixer.png",
+        "description": "Powerful blending and Mixer",
+        "fullDescription": "Make cooking easier with a mixer that handles grinding, blending, and chutney prep."
+    }
+]

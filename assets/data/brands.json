@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "image": "assets/images/brandlogos/apple.png"
+    },
+    {
+        "id": 2,
+        "name": "Samsung",
+        "image": "assets/images/brandlogos/samsung.png"
+    },
+    {
+        "id": 3,
+        "name": "Realme",
+        "image": "assets/images/brandlogos/realme.png"
+    },
+    {
+        "id": 4,
+        "name": "Oppo",
+        "image": "assets/images/brandlogos/oppo.png"
+    },
+    {
+        "id": 5,
+        "name": "Vivo",
+        "image": "assets/images/brandlogos/vivo.png"
+    },
+    {
+        "id": 6,
+        "name": "Xiaomi",
+        "image": "assets/images/brandlogos/xiaomi.png"
+    },
+    {
+        "id": 7,
+        "name": "Motorola",
+        "image": "assets/images/brandlogos/motorola.png"
+    },
+    {
+        "id": 8,
+        "name": "OnePlus",
+        "image": "assets/images/brandlogos/oneplus.png"
+    },
+    {
+        "id": 9,
+        "name": "Sony",
+        "image": "assets/images/brandlogos/sony.png"
+    },
+    {
+        "id": 10,
+        "name": "LG",
+        "image": "assets/images/brandlogos/lg.png"
+    },
+    {
+        "id": 11,
+        "name": "Whirlpool",
+        "image": "assets/images/brandlogos/whirlpool.png"
+    },
+    {
+        "id": 12,
+        "name": "Bose",
+        "image": "assets/images/brandlogos/bose.png"
+    }
+]

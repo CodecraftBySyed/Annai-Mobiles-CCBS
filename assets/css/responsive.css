@@ -1,0 +1,19 @@
+/* Mobile-first responsive styles */
+
+/* Ensure all grids are responsive */
+@media (max-width: 768px) {
+    #products-grid,
+    #gallery-grid,
+    #branches-grid {
+        grid-template-columns: 1fr !important;
+    }
+
+    #accessories-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+/* Mobile menu full width */
+#mobile-menu {
+    width: 100%;
+}
