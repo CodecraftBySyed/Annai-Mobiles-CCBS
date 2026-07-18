@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+}
+
+#navbar.scrolled {
+    background: #0F4CFF !important;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.nav-link.active {
+    color: #D4AF37 !important;
+}
+
+.product-card {
+    transition: all 0.3s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+.category-btn.active {
+    background-color: #0F4CFF;
+    color: white;
+}
+
+#scroll-top.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.testimonial-slide {
+    display: none;
+}
+
+.testimonial-slide.active {
+    display: block;
+}

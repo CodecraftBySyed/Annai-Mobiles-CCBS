@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ramesh Kumar",
+        "image": "assets/images/icons/user.jpg",
+        "rating": 5,
+        "text": "Excellent service and genuine products! I've been a customer for 5 years now."
+    },
+    {
+        "name": "Priya Sharma",
+        "image": "assets/images/icons/user.jpg",
+        "rating": 5,
+        "text": "Best prices in town! The staff is very helpful and knowledgeable about all products."
+    },
+    {
+        "name": "Arjun Patel",
+        "image": "assets/images/icons/user.jpg",
+        "rating": 4,
+        "text": "Quick delivery and great after-sales support. Highly recommend ANNAI MOBILE!"
+    }
+]

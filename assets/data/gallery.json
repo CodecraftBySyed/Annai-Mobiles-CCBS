@@ -1,0 +1,43 @@
+[
+    {
+        "image": "assets/images/gallery/Our Main Store.png",
+        "caption": "Our Main Store"
+    },
+    {
+        "image": "assets/images/gallery/smart-tv-section.png",
+        "caption": "Smart TV Section"
+    },
+        {
+        "image": "assets/images/gallery/Smart Phone Section.png",
+        "caption": "Smart Phone Section"
+    },
+    {
+        "image": "assets/images/gallery/Home Appliances.png",
+        "caption": "Home Appliances"
+    },
+    {
+        "image": "assets/images/gallery/Accessories Wall.png",
+        "caption": "Accessories Wall"
+    },
+    {
+        "image": "assets/images/gallery/Furniture.png",
+        "caption": "Furniture Section"
+    },
+        {
+        "image": "assets/images/gallery/AC-Cooler.png",
+        "caption": "AC Section"
+    },
+         {
+        "image": "assets/images/gallery/Washing Machine Section.png",
+        "caption": "Washing Machine Section"
+    },
+    {
+        "image": "assets/images/gallery/Refrigerator Section.png",
+        "caption": "Refrigerator Section"
+    },
+       {
+        "image": "assets/images/gallery/section.png",
+        "caption": "Section"
+    }
+    
+]
