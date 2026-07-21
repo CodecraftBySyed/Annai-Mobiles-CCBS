@@ -32,7 +32,7 @@ window.openModal = function(product) {
 
     // Update WhatsApp enquiry link with pre-filled message
     const whatsappBtn = document.querySelector('#product-modal a');
-    const phoneNumber = '919514141311';
+    const phoneNumber = '919894084030';
     const message = `Hello! I'm interested in:\n\nProduct: ${product.name}\nDescription: ${product.description}`;
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     whatsappBtn.href = whatsappUrl;
