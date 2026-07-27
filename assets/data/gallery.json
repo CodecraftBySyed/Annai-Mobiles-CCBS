@@ -38,6 +38,14 @@
        {
         "image": "assets/images/gallery/section.png",
         "caption": "Section"
+    },
+    {
+        "image": "assets/images/gallery/Aathurkuppam.png",
+        "caption": "Aathurkuppam Branch"
+    },
+    {
+        "image": "assets/images/gallery/Nattrampalli.png",
+        "caption": "Nattrampalli Branch"
     }
     
 ]
