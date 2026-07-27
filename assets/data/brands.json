@@ -58,5 +58,105 @@
         "id": 12,
         "name": "Bose",
         "image": "assets/images/brandlogos/bose.png"
+    },
+    {
+        "id": 13,
+        "name": "Aquaguard",
+        "image": "assets/images/brandlogos/aquaguard.png"
+    },
+    {
+        "id": 14,
+        "name": "IFB",
+        "image": "assets/images/brandlogos/ifb.png "
+    },
+    {
+        "id": 15,
+        "name": "Blue Star",
+        "image": "assets/images/brandlogos/bluestar.png "
+    },
+    {
+        "id": 16,
+        "name": "BPL",
+        "image": "assets/images/brandlogos/bpl.png "
+    },
+        {
+        "id": 17,
+        "name": "Bush",
+        "image": "assets/images/brandlogos/bush.png "
+    },
+        {
+        "id": 18,
+        "name": "Butterfly",
+        "image": "assets/images/brandlogos/butterfly.png "
+    },
+       {
+        "id": 19,
+        "name": "Crompton",
+        "image": "assets/images/brandlogos/crompton.png "
+    },
+       {
+        "id": 20,
+        "name": "Daikin",
+        "image": "assets/images/brandlogos/daikin.png "
+    },
+       {
+        "id": 21,
+        "name": "Goorej",
+        "image": "assets/images/brandlogos/goorej.png "
+    },
+       {
+        "id": 22,
+        "name": "Haier",
+        "image": "assets/images/brandlogos/haier.png "
+    },
+       {
+        "id": 23,
+        "name": "Havells",
+        "image": "assets/images/brandlogos/havells.png "
+    },
+       {
+        "id": 24,
+        "name": "Infinix",
+        "image": "assets/images/brandlogos/infinix.png "
+    },
+       {
+        "id": 25,
+        "name": "Philips",
+        "image": "assets/images/brandlogos/philips.png "
+    },
+           {
+        "id": 26,
+        "name": "Pigeon",
+        "image": "assets/images/brandlogos/pigeon.png "
+    },
+               {
+        "id": 27,
+        "name": "Preethi",
+        "image": "assets/images/brandlogos/preethi.png "
+    },
+               {
+        "id": 28,
+        "name": "Prestige",
+        "image": "assets/images/brandlogos/prestige.png "
+    },
+                 {
+        "id": 29,
+        "name": "Sowbaghya",
+        "image": "assets/images/brandlogos/sowbaghya.png "
+    },
+                     {
+        "id": 30,
+        "name": "TCL",
+        "image": "assets/images/brandlogos/tcl-logo.png "
+    },
+                         {
+        "id": 31,
+        "name": "V-Guard",
+        "image": "assets/images/brandlogos/vguard.png "
+    },
+                         {
+        "id": 32,
+        "name": "Voltas",
+        "image": "assets/images/brandlogos/voltaa.png "
     }
 ]
