@@ -28,5 +28,10 @@
         "icon": "fa-hands-helping",
         "title": "Installation",
         "description": "Professional installation services"
+    },
+    {
+        "icon": "fa-home",
+        "title": "Furniture",
+        "description": "Wide range of furniture for home and office"  
     }
 ]
